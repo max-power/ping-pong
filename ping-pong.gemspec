@@ -2,6 +2,7 @@
 Gem::Specification.new do |s|
   s.name        = 'ping-pong'
   s.version     = '0.0.1'
+  s.license     = 'WTFPL'
   s.platform    = Gem::Platform::RUBY
   s.author      = 'Kevin Melchert'
   s.email       = 'kevin.melchert@gmail.com'
